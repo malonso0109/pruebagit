@@ -1,3 +1,5 @@
 esto es mi primer bloc de notas 
 acerca de como aprender git :C
 a estar muy atento a los cambios
+
+aqui estoy agregando una nueva linea
